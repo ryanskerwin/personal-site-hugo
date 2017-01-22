@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test Hugo Site</title>
+    <title>Ryan S. Kerwin</title>
     <link>http://ryanskerwin.com/index.xml</link>
-    <description>Recent content on Test Hugo Site</description>
+    <description>Recent content on Ryan S. Kerwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 21 Jan 2017 19:11:51 -0800</lastBuildDate>
@@ -11,10 +11,10 @@
     
     <item>
       <title>good to great</title>
-      <link>http://ryanskerwin.com/post/good-to-great/</link>
+      <link>http://ryanskerwin.com/2017/01/good-to-great/</link>
       <pubDate>Sat, 21 Jan 2017 19:11:51 -0800</pubDate>
       
-      <guid>http://ryanskerwin.com/post/good-to-great/</guid>
+      <guid>http://ryanskerwin.com/2017/01/good-to-great/</guid>
       <description>&lt;p&gt;This is the body of the sample book review.&lt;/p&gt;
 </description>
     </item>
