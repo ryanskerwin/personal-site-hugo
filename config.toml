@@ -55,6 +55,12 @@ canonifyurls = true
   url = "/"
 [[menu.main]]
   weight = 1
+  identifier = "articles"
+  name = "Articles"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-newspaper-o\"></i>"
+  url = "/categories/articles"
+[[menu.main]]
+  weight = 1
   identifier = "categories"
   name = "Categories"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
@@ -71,13 +77,6 @@ canonifyurls = true
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
   url = "/archives"
-[[menu.main]]
-  weight = 4
-  identifier = "search"
-  name = "Search"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-search\"></i>"
-  url = "/#search"
-  class = "st-search-show-outputs"
 [[menu.main]]
   weight = 5
   identifier = "about"
