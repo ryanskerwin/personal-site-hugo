@@ -6,8 +6,132 @@
     <description>Recent content on Ryan S. Kerwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Feb 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://ryanskerwin.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test of tile photo capabilities</title>
+      <link>http://ryanskerwin.com/2017/02/test-of-tile-photo-capabilities/</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://ryanskerwin.com/2017/02/test-of-tile-photo-capabilities/</guid>
+      <description>&lt;p&gt;This is a post meant to test out the fancy image tag functionality.
+&lt;!-- more /--&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are a few photos:&lt;/p&gt;
+
+&lt;p&gt;
+
+ 
+  
+  
+  
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+&lt;div class=&#34;figure left nocaption fig-50&#34; &gt;
+  
+    &lt;a class=&#34;fancybox&#34; href=&#34;../../../images/Elsa.jpg&#34; title=&#34;Elsa on the run&#34; data-fancybox-group=&#34;portfolio&#34;&gt;
+  
+    &lt;img class=&#34;fig-img&#34; src=&#34;../../../images/Elsa.jpg&#34;  alt=&#34;Elsa on the run&#34;&gt;
+  
+    &lt;/a&gt;
+  
+  
+&lt;/div&gt;
+ 
+
+ 
+  
+  
+  
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+&lt;div class=&#34;figure right nocaption fig-50&#34; &gt;
+  
+    &lt;a class=&#34;fancybox&#34; href=&#34;http://www.danielwkerwin.com/images/PNG-karate-1.jpg&#34; title=&#34;mr kicky face&#34; data-fancybox-group=&#34;portfolio&#34;&gt;
+  
+    &lt;img class=&#34;fig-img&#34; src=&#34;http://www.danielwkerwin.com/images/PNG-karate-1-thumbnail.jpg&#34;  alt=&#34;mr kicky face&#34;&gt;
+  
+    &lt;/a&gt;
+  
+  
+&lt;/div&gt;
+ 
+
+ 
+  
+  
+  
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+&lt;div class=&#34;figure right nocaption fig-50&#34; &gt;
+  
+    &lt;a class=&#34;fancybox&#34; href=&#34;http://www.danielwkerwin.com/images/PNG-karate-1.jpg&#34; title=&#34;mr kicky face redux&#34; data-fancybox-group=&#34;portfolio&#34;&gt;
+  
+    &lt;img class=&#34;fig-img&#34; src=&#34;http://www.danielwkerwin.com/images/PNG-karate-1-thumbnail.jpg&#34;  alt=&#34;mr kicky face redux&#34;&gt;
+  
+    &lt;/a&gt;
+  
+  
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rushmore&#39;s Richard Lupkes wins world armwrestling title</title>
+      <link>http://ryanskerwin.com/2017/02/rushmores-richard-lupkes-wins-world-armwrestling-title/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://ryanskerwin.com/2017/02/rushmores-richard-lupkes-wins-world-armwrestling-title/</guid>
+      <description>&lt;p&gt;Here is an article my brother wrote while working at the Worthington Daily Globe in 2010. blah
+&lt;!-- more /--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.dglobe.com/content/rushmores-richard-lupkes-wins-world-armwrestling-title&#34; target=&#34;_blank&#34;&gt;Blah blah&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Super Official Portfolio</title>
@@ -39,6 +163,16 @@
 &lt;!-- more /--&gt;&lt;/p&gt;
 
 &lt;p&gt;But this part goes into way more depth etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ryan Kerwin</title>
+      <link>http://ryanskerwin.com/bio/</link>
+      <pubDate>Sun, 15 Apr 1990 00:00:00 +0000</pubDate>
+      
+      <guid>http://ryanskerwin.com/bio/</guid>
+      <description>&lt;p&gt;This is a sample bio page. &lt;b&gt;And I’ve changed&lt;/b&gt; the content again. &lt;i&gt;Again&lt;/i&gt;&lt;/p&gt;
 </description>
     </item>
     

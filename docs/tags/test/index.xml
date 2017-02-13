@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Ryan S. Kerwin</title>
+    <link>http://ryanskerwin.com/tags/test/index.xml</link>
+    <description>Recent content in Test on Ryan S. Kerwin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://ryanskerwin.com/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test of tile photo capabilities</title>
+      <link>http://ryanskerwin.com/2017/02/test-of-tile-photo-capabilities/</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://ryanskerwin.com/2017/02/test-of-tile-photo-capabilities/</guid>
+      <description>&lt;p&gt;This is a post meant to test out the fancy image tag functionality.
+&lt;!-- more /--&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are a few photos:&lt;/p&gt;
+
+&lt;p&gt;
+
+ 
+  
+  
+  
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+&lt;div class=&#34;figure left nocaption fig-50&#34; &gt;
+  
+    &lt;a class=&#34;fancybox&#34; href=&#34;../../../images/Elsa.jpg&#34; title=&#34;Elsa on the run&#34; data-fancybox-group=&#34;portfolio&#34;&gt;
+  
+    &lt;img class=&#34;fig-img&#34; src=&#34;../../../images/Elsa.jpg&#34;  alt=&#34;Elsa on the run&#34;&gt;
+  
+    &lt;/a&gt;
+  
+  
+&lt;/div&gt;
+ 
+
+ 
+  
+  
+  
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+&lt;div class=&#34;figure right nocaption fig-50&#34; &gt;
+  
+    &lt;a class=&#34;fancybox&#34; href=&#34;http://www.danielwkerwin.com/images/PNG-karate-1.jpg&#34; title=&#34;mr kicky face&#34; data-fancybox-group=&#34;portfolio&#34;&gt;
+  
+    &lt;img class=&#34;fig-img&#34; src=&#34;http://www.danielwkerwin.com/images/PNG-karate-1-thumbnail.jpg&#34;  alt=&#34;mr kicky face&#34;&gt;
+  
+    &lt;/a&gt;
+  
+  
+&lt;/div&gt;
+ 
+
+ 
+  
+  
+  
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+&lt;div class=&#34;figure right nocaption fig-50&#34; &gt;
+  
+    &lt;a class=&#34;fancybox&#34; href=&#34;http://www.danielwkerwin.com/images/PNG-karate-1.jpg&#34; title=&#34;mr kicky face redux&#34; data-fancybox-group=&#34;portfolio&#34;&gt;
+  
+    &lt;img class=&#34;fig-img&#34; src=&#34;http://www.danielwkerwin.com/images/PNG-karate-1-thumbnail.jpg&#34;  alt=&#34;mr kicky face redux&#34;&gt;
+  
+    &lt;/a&gt;
+  
+  
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

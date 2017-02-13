@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ryanskerwin.com/2017/02/test-of-tile-photo-capabilities/</loc>
+    <lastmod>2017-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ryanskerwin.com/2017/02/rushmores-richard-lupkes-wins-world-armwrestling-title/</loc>
+    <lastmod>2017-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://ryanskerwin.com/portfolio/</loc>
     <lastmod>2017-01-28T00:00:00+00:00</lastmod>
   </url>
@@ -14,6 +24,29 @@
   <url>
     <loc>http://ryanskerwin.com/2015/05/new-post/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ryanskerwin.com/bio/</loc>
+    <lastmod>1990-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ryanskerwin.com/categories/armwrestling/</loc>
+    <lastmod>2017-02-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ryanskerwin.com/tags/armwrestling/</loc>
+    <lastmod>2017-02-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ryanskerwin.com/categories/articles/</loc>
+    <lastmod>2017-02-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -40,14 +73,38 @@
   </url>
   
   <url>
+    <loc>http://ryanskerwin.com/categories/kittens/</loc>
+    <lastmod>2017-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ryanskerwin.com/tags/lupkes/</loc>
+    <lastmod>2017-02-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ryanskerwin.com/tags/photos/</loc>
+    <lastmod>2017-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ryanskerwin.com/post/</loc>
-    <lastmod>2017-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ryanskerwin.com/categories/rainbows/</loc>
+    <lastmod>2017-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ryanskerwin.com/</loc>
-    <lastmod>2017-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -71,6 +128,12 @@
   
   <url>
     <loc>http://ryanskerwin.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ryanskerwin.com/tags/test/</loc>
+    <lastmod>2017-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
