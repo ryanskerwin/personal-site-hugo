@@ -15,6 +15,7 @@ gallery:
 - http://www.danielwkerwin.com/images/PNG-karate-1.jpg
 - http://res.cloudinary.com/ryankerwin/image/upload/v1486970603/DSC_0114_bzo19l.jpg Elsa&nbsp;loves&nbsp;flowers
 thumbnailImage: "http://www.danielwkerwin.com/images/PNG-karate-1-thumbnail.jpg"
+weight: 50
 
 ---
 

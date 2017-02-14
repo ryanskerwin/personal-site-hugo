@@ -4,11 +4,18 @@ categories = ["rainbows","kittens"]
 date = "2017-02-12"
 title = "Test of tile photo capabilities"
 keywords = ["blah"]
+clearReading = "true"
+coverImage = "http://res.cloudinary.com/ryankerwin/image/upload/v1486973506/Me_interviewing_Ryan_Pini_alternate_view_jz6ugo.jpg"
+thumbnailImage = "http://res.cloudinary.com/ryankerwin/image/upload/c_scale,w_314/v1486973506/Me_interviewing_Ryan_Pini_alternate_view_jz6ugo.jpg"
+weight = 2
 
 +++
 
 This is a post meant to test out the fancy image tag functionality.
-<!-- more /-->
+<!--more-->
+
+
+# lorem ipsum
 
 Here are a few photos:
 

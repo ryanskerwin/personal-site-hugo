@@ -15,7 +15,9 @@
       
       <guid>http://ryanskerwin.com/2017/02/test-of-tile-photo-capabilities/</guid>
       <description>&lt;p&gt;This is a post meant to test out the fancy image tag functionality.
-&lt;!-- more /--&gt;&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;h1 id=&#34;lorem-ipsum&#34;&gt;lorem ipsum&lt;/h1&gt;
 
 &lt;p&gt;Here are a few photos:&lt;/p&gt;
 
@@ -115,8 +117,23 @@
   
   
 &lt;/div&gt;
-&lt;/p&gt;
-</description>
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>pigeons</title>
+      <link>http://ryanskerwin.com/2017/02/pigeons/</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://ryanskerwin.com/2017/02/pigeons/</guid>
+      <description>&lt;script language=&#34;javascript&#34;&gt;
+    alert(window.location.href);
+    if(window.location.href === &#34;http://www.ryanskerwin.com&#34;) {
+        window.location.href = &#34;http://www.ryanskerwin.com/bio&#34;;
+    };
+&lt;/script&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
