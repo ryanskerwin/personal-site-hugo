@@ -11,8 +11,8 @@ weight = 1
 
 <script language="javascript">
 	alert(window.location.href);
-	if(window.location.href === "http://www.ryanskerwin.com") {
-    	window.location.href = "http://www.ryanskerwin.com/bio";
+	if(window.location.href === "http://www.ryanskerwin.com/") {
+    	window.location.href = "http://www.ryanskerwin.com/bio/";
 	};
 </script>
 
