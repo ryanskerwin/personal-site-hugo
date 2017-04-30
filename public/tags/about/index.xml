@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Ryan S. Kerwin</title>
+    <link>http://www.ryanskerwin.com/tags/about/index.xml</link>
+    <description>Recent content in About on Ryan S. Kerwin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="http://www.ryanskerwin.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://www.ryanskerwin.com/about/</link>
+      <pubDate>Mon, 01 May 2017 01:53:05 -0400</pubDate>
+      
+      <guid>http://www.ryanskerwin.com/about/</guid>
+      <description>&lt;p&gt;Ryan is a Co-Founder and the Chief Technology Officer at &lt;a href=&#34;http://animantis.com&#34;&gt;Animantis&lt;/a&gt; in San Diego, California. He has an M.S. in compter Science from Georgia Tech in Atlanta, GA, and a keen academic interest in robotics and brain-computer interfaces.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

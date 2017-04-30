@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://www.ryanskerwin.com/about/</loc>
+    <lastmod>2017-05-01T01:53:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ryanskerwin.com/blog/test2/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ryanskerwin.com/tags/about/</loc>
+    <lastmod>2017-05-01T01:53:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ryanskerwin.com/categories/about/</loc>
+    <lastmod>2017-05-01T01:53:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ryanskerwin.com/blog/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ryanskerwin.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ryanskerwin.com/tags/coming-soon/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ryanskerwin.com/tags/hold-your-horses/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ryanskerwin.com/categories/placeholder/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ryanskerwin.com/</loc>
+    <lastmod>2017-05-01T01:53:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ryanskerwin.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ryanskerwin.com/categories/teaser/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

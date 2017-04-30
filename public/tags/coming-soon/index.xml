@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coming Soon on Ryan S. Kerwin</title>
+    <link>http://www.ryanskerwin.com/tags/coming-soon/index.xml</link>
+    <description>Recent content in Coming Soon on Ryan S. Kerwin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="http://www.ryanskerwin.com/tags/coming-soon/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Coming soon to a webspace near you...</title>
+      <link>http://www.ryanskerwin.com/blog/test2/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ryanskerwin.com/blog/test2/</guid>
+      <description>&lt;p&gt;Welcome! If you&amp;rsquo;ve found this text, it means you&amp;rsquo;ve encountered my blog before I&amp;rsquo;ve had a chance to produce any real content. I&amp;rsquo;m flattered you&amp;rsquo;re here!&lt;/p&gt;
+
+&lt;p&gt;Up until now, I&amp;rsquo;ve never felt the need to connect with the world through a blog. But after 2+ years as the solo software developer for a biotech startup, it occurs to me that I may have learned a few things that could prove useful to other programmers trying to make the transition from academic to professional. If you come back soon, I promise I will take a crack at tackling some heavy-hitting topics such as:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Imposter syndrome&lt;/li&gt;
+&lt;li&gt;Self motivation&lt;/li&gt;
+&lt;li&gt;Failing fast&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As well as some less explicitly-professional thoughts I have about being a human in the modern world.&lt;/p&gt;
+
+&lt;p&gt;If just a single person wakes up one day feeling comforted by something they&amp;rsquo;ve read on this site, I&amp;rsquo;ll consider this endeavor a success.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
