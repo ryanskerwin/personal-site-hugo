@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.ryanskerwin.com/blog/ignorance-is-this/</loc>
+    <loc>http://www.ryanskerwin.com/blog/this-i-know-this-i-dont/</loc>
     <lastmod>2017-09-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -17,13 +17,13 @@
   </url>
   
   <url>
-    <loc>http://www.ryanskerwin.com/tags/about/</loc>
+    <loc>http://www.ryanskerwin.com/categories/about/</loc>
     <lastmod>2017-05-01T01:53:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ryanskerwin.com/categories/about/</loc>
+    <loc>http://www.ryanskerwin.com/tags/about/</loc>
     <lastmod>2017-05-01T01:53:05-04:00</lastmod>
     <priority>0</priority>
   </url>

@@ -2,7 +2,7 @@
 tags = ["imposter syndrome","competence", "knowledge", "honesty","learning"]
 categories = ["professional","skills"]
 date = "2017-09-06T00:00:00Z"
-title = "Ignorance is This"
+title = "This I Know (This I Don't)"
 keywords = ["tech"]
 
 +++
